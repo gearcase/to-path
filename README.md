@@ -34,7 +34,10 @@ toPath([1, 2, 3]);    // => ['1', '2', '3']
 
 ## Related
 
-
+- [object-at](https://github.com/bubkoo/object-at) - Get object's property according to the path.
+- [object-has](https://github.com/bubkoo/object-has) - Checks if path is a direct property of object.
+- [object-set](https://github.com/bubkoo/object-set) - Sets the value at path of object.
+- [object-unset](https://github.com/bubkoo/object-unset) - Removes the property at path of object.
 
 
 ## Contributing
