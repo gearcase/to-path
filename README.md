@@ -2,8 +2,6 @@
 
 > Converts string to a property path array.
 
-
-
 [![MIT License](https://img.shields.io/badge/license-MIT_License-green.svg?style=flat-square)](https://github.com/gearcase/to-path/blob/master/LICENSE)
 
 [![build:?](https://img.shields.io/travis/gearcase/to-path/master.svg?style=flat-square)](https://travis-ci.org/gearcase/to-path)
