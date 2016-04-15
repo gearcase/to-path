@@ -29,7 +29,7 @@ module.exports = function (value) {
 
   var result = [];
 
-  if (isArrayLike(value)) {
+  if (typeof value !== 'string' && isArrayLike(value)) {
     for (var i = 0, l = value.length; i < l; i++) {
       result.push(toKey(value[i]));
     }

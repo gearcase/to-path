@@ -1,6 +1,6 @@
 {
   "name": "to-path",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Converts string to a property path array.",
   "main": "index.js",
   "scripts": {
@@ -29,12 +29,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bubkoo/to-path.git"
+    "url": "git+https://github.com/gearcase/to-path.git"
   },
   "bugs": {
-    "url": "https://github.com/bubkoo/to-path/issues"
+    "url": "https://github.com/gearcase/to-path/issues"
   },
-  "homepage": "https://github.com/bubkoo/to-path#readme",
+  "homepage": "https://github.com/gearcase/to-path#readme",
   "devDependencies": {
     "jshint": "^2.9.1",
     "chai": "^3.5.0",
